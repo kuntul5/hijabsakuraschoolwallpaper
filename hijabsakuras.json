@@ -1,0 +1,241 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+	  "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_rewardid": "ca-app-pub-3940256099942544/522435491x", 
+      "interval": 1,
+      "coin_reward": 0
+    }
+  ],
+  "More":
+  [
+	{
+      "title":"KUN",
+      "image":"",
+      "link":"https://play.google.com/store/apps/dev?id=7330959576723396199"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "KUN",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "KUN",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/01.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "KUN",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/02.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "KUN",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/03.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "KUN",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/04.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "KUN",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/05.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "KUN",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/06.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "KUN",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/07.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "KUN",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/08.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "KUN",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/09.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "KUN",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/10.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "KUN",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/11.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "KUN",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/12.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "KUN",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/13.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "KUN",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/14.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "KUN",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/15.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "KUN",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/16.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "KUN",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/17.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "KUN",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/18.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "KUN",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/19.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "KUN",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/20.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "KUN",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/21.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "KUN",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/22.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "KUN",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/23.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "KUN",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/24.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "KUN",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/25.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "KUN",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/26.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "KUN",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/27.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "KUN",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/28.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "KUN",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/29.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "KUN",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/kuntul5/hijabsakuraschoolwallpaper/main/30.webp",
+      "coin":1000
+    }
+  ]
+}
